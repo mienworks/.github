@@ -1,6 +1,6 @@
 # We are Presence
 
-We are a web development group who serves as the digital hands of the underserved.
+We are a web engineering studio who serves as the digital hands of the underserved.
 
 Small businesses, your stop-by content creator, a niche blogger, and everything in between. Everyone deserves to have an online presence.
 
