@@ -1,4 +1,4 @@
-<img align="left" width="64" src="https://mien.works/branding/logo.svg" alt="Mien logo" style="margin-right: 20px;">
+<img align="left" width="64" src="https://raw.githubusercontent.com/mienworks/.github/refs/heads/main/assets/branding/boxed-logo.svg" alt="Mien logo" style="margin-right: 20px;">
 
 # / Welcome :)
 **We are Mien.** 
